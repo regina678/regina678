@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate FullStack Developer </h3>
 <h1 align="center"> 💫 About Me:</h1>
 <h2 align="center"> 👋 Habari. I'm Wanjiru. Karibu <br><br></h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
