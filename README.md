@@ -54,6 +54,32 @@ A full-stack productivity app that enables users to track personal habits, join 
 [🔗 Github Backend](https://github.com/Christine-June/Personal-Habit-Challenge-League)
 
 ---
+
+# 🎬 Movie Night Planner
+
+Plan the perfect movie night with ease!  
+The **Movie Night Planner** is a fun and simple app that helps you add, organize, and schedule your favorite movies — ideal for friends, families, or solo binge-watchers.
+
+- 🎥 **Add Movies** – Keep track of your movie list
+- 📅 **Schedule Movie Night** – Pick a date and time for your movie session
+- 📱 **Responsive Design** – Smooth experience across devices
+- 🔔 **Notification Alerts** – Toast messages for important actions
+- 🧹 **Simple & Elegant UI** – Built with TailwindCSS for a modern look
+
+**Links**:
+(https://github.com/Christine-June/Movie-night-planner)
+
+---
+
+## 🖥️ Tech Stack
+
+| Frontend       | Utility/Styling  | Backend         |
+|----------------|------------------|-----------------|
+| React          | Tailwind CSS     | JSON Server     |
+| React Router   | React Hot Toast  | Local JSON data |
+
+---
+
 ## 📊 GitHub Stats
 
 ![Regina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=regina678&show_icons=true&theme=radical&cache_seconds=86400)
