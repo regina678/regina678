@@ -1,8 +1,28 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Wanjiru!;FullStack+Engineer.;Data+Scientist.;Lifelong+Learner.)
 
+<h2 align="center">
+  👋 Hi, I'm <span style="color:#6c63ff;">Wanjiru Kariuki</span><br>
+  <em>I'm a software engineer with experience in web development, data science, and technical support. I enjoy solving real-world problems with clean code and thoughtful design./em> 💻
+</h2>
+---
 
-🎓 **Bachelor of Science in Software Development**  <br>💻 Passionate about software engineering, data science, and innovative tech for social impact<br><br><br><br>💼 About Me<br><br>I'm a Software Engineer with experience across various tech domains, including:<br>- 💻 **Software & Web Development**<br>- 📊 **Data Science & Analysis**<br>- 📱 **Technical Support & IT Infrastructure**<br><br><br><br>🔧 Tech Stack & Tools<br><br>**Languages:**  <br> `HTML``CSS``Javacript` `Python` `SQLite` `React` `Flask`<br><br><br>🔍 Current Projects<br><br>- 🐍 **Phase 3 Python CLI App** – A command-line tool built with SQLAlchemy and SQLite, featuring full CRUD operations, relationship modeling, and a modular structure with Pipenv and documentation.<br>  <br>- ⚙️ **ORM & OOP Integration Project** – Designed a `Review` class with full database interaction using SQLAlchemy ORM, integrated into a company data model alongside `Department` and `Employee` classes.<br><br>- 🧪 **Pytest Test Suite** – Developed comprehensive test coverage for an OOP project (Customer, Coffee, and Order classes), focusing on relationship logic, data validation, and aggregation methods.<br><br>- 🐘 **Hackathon Freebie Tracker (Mock Challenge)** – Built a data model using SQLAlchemy for `Company`, `Dev`, and `Freebie` entities to track swag developers receive at hackathons. Implemented relationships, validations, and interactive queries.<br><br>- 📊 **Microeconomics Insight Abstract** – Analyzed the impact of U.S.-China trade tensions on rare earth production and exports, highlighting economic principles using a real-world case study.<br><br>- 🧹 **Community Data Dashboard** – Cleaned and updated graduate session data, proposed automation solutions using Python and SQL, and delivered insights for improved community engagement.<br><br><br><br><br><br>🧠 Learning & Interests<br><br>- 🐍 **Advanced Python Programming** – Deepening knowledge in OOP, unit testing with `pytest`, decorators, and higher-order functions.<br>- 🗃️ **SQLAlchemy & ORMs** – Building relational data models, managing CRUD operations, and integrating Python classes with SQLite.<br>- 🔍 **Data Analysis & Automation** – Automating data cleaning and report generation using `pandas`, SQL, and dashboard tools.<br>- 🌐 **Command-Line Applications** – Designing modular CLI apps using `argparse`, `click`, and rich text outputs.<br>- 🔒 **Network & System Administration** – Strengthening skills in network configuration, hardware diagnostics, and Linux-based system operations.<br>- 🧠 **Machine Learning Foundations** – Exploring scikit-learn and TensorFlow for predictive modeling and real-world ML applications.<br>- 🌍 **Tech for Social Impact** – Passionate about building solutions for sustainability, healthcare, and community-driven data tools.<br><br>---<br><br>📌 Let's Connect<br><br>- 💼 [LinkedIn](www.linkedin.com/in/wanjirukariuki678) <br>- 📬 Email: *wanjiruregina678@gmail.com* 
+🎓 **BSc. in Software Development**  
+📜 **Certified Software Engineer (Moringa School)**  
+---
+
+### 🔍 Learning & Interests  
+- 📊 **Data Science & Analytics** (Python, SQL, Pandas, Jupyter)  
+- 🌐 **Full-Stack Development** (React, Flask, PostgreSQL)  
+- 📈 **Machine Learning Basics**  
+- 🧹 **Data Cleaning & Visualization**  
+- ⚙️ **REST APIs & Automation Scripts**
+---
+
+### 📬 Connect with Me  
+- 🌐 [LinkedIn](www.linkedin.com/in/wanjirukariuki678)  
+- 📧 *wanjiruregina678@gmail.com*
+
 
 
 💻 Tech Stack:
