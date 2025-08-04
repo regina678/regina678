@@ -23,45 +23,37 @@
 
 ## 🛠️ Recent Projects
 
-### 🔹 RecruitConnect (2025)
-A full-stack job application platform for job seekers and employers. Features include:
-- User authentication (JWT)
-- Admin and job seeker dashboards
-- Job search, applications, and tracking
-- Saved jobs and notifications
-- Flask REST API + PostgreSQL backend  
-**Frontend**: React + Tailwind  
-**Backend**: Flask + SQLAlchemy  
+## 🔹 RecruitConnect (2025)
+A full-stack job application platform connecting job seekers with employers. Users can search jobs, apply, and manage applications, while admins oversee listings and users.
+
+- 🔐 **Authentication**: Secure JWT-based login and role-based access (admin, job seeker)
+- 📋 **Dashboards**: Personalized user and admin dashboards
+- 💼 **Job Features**: Search, apply, save jobs, and track application status
+- 🔔 **Notifications**: Real-time alerts for job updates and application progress
+- ⚙️ **Tech Stack**:  
+  - **Frontend**: React + Tailwind CSS  
+  - **Backend**: Flask REST API + SQLAlchemy + PostgreSQL  
+
+**Links**:  
 [🔗 GitHub Frontend](https://github.com/Mundia1/recruit-connect-frontend-)  
 [🔗 GitHub Backend](https://github.com/Mundia1/RecruitConnectBackend)
 
 ---
 
-### 🔹 Chatterbox Messaging App
-A social chat application where users can post, update, and delete messages.  
-**Frontend**: React  
-**Backend**: Flask with RESTful APIs  
-**Features**: Message timestamps, edit functionality, dynamic UI
+## 🔹 Personal Habit League
+A full-stack productivity app that enables users to track personal habits, join challenges, and monitor progress alongside others.
+
+- 👥 Community-driven habit tracking
+- 🏆 Leaderboards and challenge entries
+- 📝 Habit entries and user progress logs
+- 🔐 Authentication, blog posts, and user settings
+- ⚙️ **Tech Stack**: React + Flask + SQLAlchemy
+
+**Links**:
+[🔗 Github Frontend](https://github.com/Christine-June/Personal-Habit-League-2)
+[🔗 Github Backend](https://github.com/Christine-June/Personal-Habit-Challenge-League)
 
 ---
-
-### 🔹 Superhero Powers API
-REST API for managing Heroes, Powers, and HeroPower relationships using Flask & SQLAlchemy.  
-**Features**:
-- One-to-many and many-to-many relationships
-- Validations and serialization
-- CSV seeding and nested JSON responses
-
----
-
-### 🔹 Personal Habit League
-A React + Flask full-stack productivity app that helps users track habits and challenges.  
-**Features**:
-- Authentication, leaderboard, blog, and settings
-- Pages: Challenges, Habits, Entries, User profiles
-
----
-
 ## 📊 GitHub Stats
 
 ![Regina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=regina678&show_icons=true&theme=radical&cache_seconds=86400)
