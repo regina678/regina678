@@ -23,7 +23,7 @@
 
 ## 🛠️ Recent Projects
 
-## 🔹 RecruitConnect (2025)
+## 🔹 RecruitConnect 
 A full-stack job application platform connecting job seekers with employers. Users can search jobs, apply, and manage applications, while admins oversee listings and users.
 
 - 🔐 **Authentication**: Secure JWT-based login and role-based access (admin, job seeker)
@@ -55,7 +55,7 @@ A full-stack productivity app that enables users to track personal habits, join 
 
 ---
 
-# 🎬 Movie Night Planner
+# 🔹 Movie Night Planner
 
 Plan the perfect movie night with ease!  
 The **Movie Night Planner** is a fun and simple app that helps you add, organize, and schedule your favorite movies — ideal for friends, families, or solo binge-watchers.
@@ -65,18 +65,10 @@ The **Movie Night Planner** is a fun and simple app that helps you add, organize
 - 📱 **Responsive Design** – Smooth experience across devices
 - 🔔 **Notification Alerts** – Toast messages for important actions
 - 🧹 **Simple & Elegant UI** – Built with TailwindCSS for a modern look
+-  ⚙️ **Tech Stack**: React + TailwindCSS + JSON Server
 
 **Links**:
-(https://github.com/Christine-June/Movie-night-planner)
-
----
-
-## 🖥️ Tech Stack
-
-| Frontend       | Utility/Styling  | Backend         |
-|----------------|------------------|-----------------|
-| React          | Tailwind CSS     | JSON Server     |
-| React Router   | React Hot Toast  | Local JSON data |
+[🔗 Movie Night Planner](https://github.com/Christine-June/Movie-night-planner)
 
 ---
 
