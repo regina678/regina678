@@ -1,12 +1,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Wanjiru!;FullStack+Engineer.;Data+Scientist.;Lifelong+Learner.)
 
-<h2 align="center">
-  👋 Hi, I'm <span style="color:#6c63ff;">Wanjiru Kariuki</span><br>
-  <em>I'm a software engineer with experience in web development, data science, and technical support. I enjoy solving real-world problems with clean code and thoughtful design./em> 💻
-</h2>
----
-
 🎓 **BSc. in Software Development**  
 📜 **Certified Software Engineer (Moringa School)**  
 ---
